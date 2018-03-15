@@ -1,0 +1,9 @@
+<p class="maria-silva-pereira2">maria silva pereira</p>
+<p class="maria-silva-arruda">maria silva pereira</p>
+<p class="maria-silva-lima">maria silva pereira</p>
+<p class="maria-soja-lima">maria silva pereira</p>
+<p class="maria-vaca-lima">maria silva pereira</p>@@@p[class*=soj] {
+    color: red;  
+padding:20;
+
+}@@@//color

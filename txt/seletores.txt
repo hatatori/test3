@@ -1,0 +1,3 @@
+vass@@@p{
+padding:10;
+}@@@//fullscreen

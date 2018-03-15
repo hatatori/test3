@@ -1,0 +1,8 @@
+oloko
+teste
+full@@@p{padding:50}
+@@@
+btcopy.onclick=()=>{
+box.select()
+document.execCommand("Copy")
+}

@@ -1,0 +1,178 @@
+
+<div id="cores">
+<button style="background-color:AliceBlue;">AliceBlue</button>
+<button style="background-color:AntiqueWhite;">AntiqueWhite</button>
+<button style="background-color:Aqua;">Aqua</button>
+<button style="background-color:Aquamarine;">Aquamarine</button>
+<button style="background-color:Azure;">Azure</button>
+<button style="background-color:Beige;">Beige</button>
+<button style="background-color:Bisque;">Bisque</button>
+<button style="background-color:Black;">Black</button>
+<button style="background-color:BlanchedAlmond;">BlanchedAlmond</button>
+<button style="background-color:Blue;">Blue</button>
+<button style="background-color:BlueViolet;">BlueViolet</button>
+<button style="background-color:Brown;">Brown</button>
+<button style="background-color:BurlyWood;">BurlyWood</button>
+<button style="background-color:CadetBlue;">CadetBlue</button>
+<button style="background-color:Chartreuse;">Chartreuse</button>
+<button style="background-color:Chocolate;">Chocolate</button>
+<button style="background-color:Coral;">Coral</button>
+<button style="background-color:CornflowerBlue;">CornflowerBlue</button>
+<button style="background-color:Cornsilk;">Cornsilk</button>
+<button style="background-color:Crimson;">Crimson</button>
+<button style="background-color:Cyan;">Cyan</button>
+<button style="background-color:DarkBlue;">DarkBlue</button>
+<button style="background-color:DarkCyan;">DarkCyan</button>
+<button style="background-color:DarkGoldenRod;">DarkGoldenRod</button>
+<button style="background-color:DarkGray;">DarkGray</button>
+<button style="background-color:DarkGrey;">DarkGrey</button>
+<button style="background-color:DarkGreen;">DarkGreen</button>
+<button style="background-color:DarkKhaki;">DarkKhaki</button>
+<button style="background-color:DarkMagenta;">DarkMagenta</button>
+<button style="background-color:DarkOliveGreen;">DarkOliveGreen</button>
+<button style="background-color:DarkOrange;">DarkOrange</button>
+<button style="background-color:DarkOrchid;">DarkOrchid</button>
+<button style="background-color:DarkRed;">DarkRed</button>
+<button style="background-color:DarkSalmon;">DarkSalmon</button>
+<button style="background-color:DarkSeaGreen;">DarkSeaGreen</button>
+<button style="background-color:DarkSlateBlue;">DarkSlateBlue</button>
+<button style="background-color:DarkSlateGray;">DarkSlateGray</button>
+<button style="background-color:DarkSlateGrey;">DarkSlateGrey</button>
+<button style="background-color:DarkTurquoise;">DarkTurquoise</button>
+<button style="background-color:DarkViolet;">DarkViolet</button>
+<button style="background-color:DeepPink;">DeepPink</button>
+<button style="background-color:DeepSkyBlue;">DeepSkyBlue</button>
+<button style="background-color:DimGray;">DimGray</button>
+<button style="background-color:DimGrey;">DimGrey</button>
+<button style="background-color:DodgerBlue;">DodgerBlue</button>
+<button style="background-color:FireBrick;">FireBrick</button>
+<button style="background-color:FloralWhite;">FloralWhite</button>
+<button style="background-color:ForestGreen;">ForestGreen</button>
+<button style="background-color:Fuchsia;">Fuchsia</button>
+<button style="background-color:Gainsboro;">Gainsboro</button>
+<button style="background-color:GhostWhite;">GhostWhite</button>
+<button style="background-color:Gold;">Gold</button>
+<button style="background-color:GoldenRod;">GoldenRod</button>
+<button style="background-color:Gray;">Gray</button>
+<button style="background-color:Grey;">Grey</button>
+<button style="background-color:Green;">Green</button>
+<button style="background-color:GreenYellow;">GreenYellow</button>
+<button style="background-color:HoneyDew;">HoneyDew</button>
+<button style="background-color:HotPink;">HotPink</button>
+<button style="background-color:IndianRed;">IndianRed</button>
+<button style="background-color:Indigo;">Indigo</button>
+<button style="background-color:Ivory;">Ivory</button>
+<button style="background-color:Khaki;">Khaki</button>
+<button style="background-color:Lavender;">Lavender</button>
+<button style="background-color:LavenderBlush;">LavenderBlush</button>
+<button style="background-color:LawnGreen;">LawnGreen</button>
+<button style="background-color:LemonChiffon;">LemonChiffon</button>
+<button style="background-color:LightBlue;">LightBlue</button>
+<button style="background-color:LightCoral;">LightCoral</button>
+<button style="background-color:LightCyan;">LightCyan</button>
+<button style="background-color:LightGoldenRodYellow;">LightGoldenRodYellow</button>
+<button style="background-color:LightGray;">LightGray</button>
+<button style="background-color:LightGrey;">LightGrey</button>
+<button style="background-color:LightGreen;">LightGreen</button>
+<button style="background-color:LightPink;">LightPink</button>
+<button style="background-color:LightSalmon;">LightSalmon</button>
+<button style="background-color:LightSeaGreen;">LightSeaGreen</button>
+<button style="background-color:LightSkyBlue;">LightSkyBlue</button>
+<button style="background-color:LightSlateGray;">LightSlateGray</button>
+<button style="background-color:LightSlateGrey;">LightSlateGrey</button>
+<button style="background-color:LightSteelBlue;">LightSteelBlue</button>
+<button style="background-color:LightYellow;">LightYellow</button>
+<button style="background-color:Lime;">Lime</button>
+<button style="background-color:LimeGreen;">LimeGreen</button>
+<button style="background-color:Linen;">Linen</button>
+<button style="background-color:Magenta;">Magenta</button>
+<button style="background-color:Maroon;">Maroon</button>
+<button style="background-color:MediumAquaMarine;">MediumAquaMarine</button>
+<button style="background-color:MediumBlue;">MediumBlue</button>
+<button style="background-color:MediumOrchid;">MediumOrchid</button>
+<button style="background-color:MediumPurple;">MediumPurple</button>
+<button style="background-color:MediumSeaGreen;">MediumSeaGreen</button>
+<button style="background-color:MediumSlateBlue;">MediumSlateBlue</button>
+<button style="background-color:MediumSpringGreen;">MediumSpringGreen</button>
+<button style="background-color:MediumTurquoise;">MediumTurquoise</button>
+<button style="background-color:MediumVioletRed;">MediumVioletRed</button>
+<button style="background-color:MidnightBlue;">MidnightBlue</button>
+<button style="background-color:MintCream;">MintCream</button>
+<button style="background-color:MistyRose;">MistyRose</button>
+<button style="background-color:Moccasin;">Moccasin</button>
+<button style="background-color:NavajoWhite;">NavajoWhite</button>
+<button style="background-color:Navy;">Navy</button>
+<button style="background-color:OldLace;">OldLace</button>
+<button style="background-color:Olive;">Olive</button>
+<button style="background-color:OliveDrab;">OliveDrab</button>
+<button style="background-color:Orange;">Orange</button>
+<button style="background-color:OrangeRed;">OrangeRed</button>
+<button style="background-color:Orchid;">Orchid</button>
+<button style="background-color:PaleGoldenRod;">PaleGoldenRod</button>
+<button style="background-color:PaleGreen;">PaleGreen</button>
+<button style="background-color:PaleTurquoise;">PaleTurquoise</button>
+<button style="background-color:PaleVioletRed;">PaleVioletRed</button>
+<button style="background-color:PapayaWhip;">PapayaWhip</button>
+<button style="background-color:PeachPuff;">PeachPuff</button>
+<button style="background-color:Peru;">Peru</button>
+<button style="background-color:Pink;">Pink</button>
+<button style="background-color:Plum;">Plum</button>
+<button style="background-color:PowderBlue;">PowderBlue</button>
+<button style="background-color:Purple;">Purple</button>
+<button style="background-color:RebeccaPurple;">RebeccaPurple</button>
+<button style="background-color:Red;">Red</button>
+<button style="background-color:RosyBrown;">RosyBrown</button>
+<button style="background-color:RoyalBlue;">RoyalBlue</button>
+<button style="background-color:SaddleBrown;">SaddleBrown</button>
+<button style="background-color:Salmon;">Salmon</button>
+<button style="background-color:SandyBrown;">SandyBrown</button>
+<button style="background-color:SeaGreen;">SeaGreen</button>
+<button style="background-color:SeaShell;">SeaShell</button>
+<button style="background-color:Sienna;">Sienna</button>
+<button style="background-color:Silver;">Silver</button>
+<button style="background-color:SkyBlue;">SkyBlue</button>
+<button style="background-color:SlateBlue;">SlateBlue</button>
+<button style="background-color:SlateGray;">SlateGray</button>
+<button style="background-color:SlateGrey;">SlateGrey</button>
+<button style="background-color:Snow;">Snow</button>
+<button style="background-color:SpringGreen;">SpringGreen</button>
+<button style="background-color:SteelBlue;">SteelBlue</button>
+<button style="background-color:Tan;">Tan</button>
+<button style="background-color:Teal;">Teal</button>
+<button style="background-color:Thistle;">Thistle</button>
+<button style="background-color:Tomato;">Tomato</button>
+<button style="background-color:Turquoise;">Turquoise</button>
+<button style="background-color:Violet;">Violet</button>
+<button style="background-color:Wheat;">Wheat</button>
+<button style="background-color:White;">White</button>
+<button style="background-color:WhiteSmoke;">WhiteSmoke</button>
+<button style="background-color:Yellow;">Yellow</button>
+<button style="background-color:YellowGreen;">YellowGreen</button>
+</div>
+@@@button{
+padding:10;
+width:100;
+height:80;
+font-size:16;
+border:0;
+margin:5;
+outline:none;
+overflow:hidden;
+}
+@@@if(typeof(copiacola) == "undefined"){
+inp = document.createElement("input");
+inp.style="overflow:hidden;height:0;border:0";
+inp.id="copiacola";
+document.body.appendChild(inp)
+}
+
+c = cores.querySelectorAll("button")
+
+c.forEach(function(e){
+	e.onclick=function(g){
+		copiacola.value = this.innerHTML;
+		copiacola.select();
+		document.execCommand("Copy");
+		alert("Copiado");
+	}	
+})

@@ -1,0 +1,20 @@
+sei de nada
+<input type="checkbox" id="item-1" />
+<label id="lab" for="item-1">vixi maria </label>
+
+<input type="checkbox" id="item-2" />
+<label id="lab" for="item-2">vixi maria </label>@@@
+input[type=checkbox]{display:none;}
+
+input:checked + #lab{
+background-color:red;
+padding:30;
+display:inline-table;
+}
+
+input + #lab{
+background-color:#ccc;
+padding:20;
+float:left;
+margin:10;
+}@@@

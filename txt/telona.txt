@@ -1,0 +1,18 @@
+a@@@@@@
+if(typeof(copiacola) == "undefined"){
+inp = document.createElement("input");
+inp.style="overflow:hidden;height:0;border:0";
+inp.id="copiacola";
+document.body.appendChild(inp)
+}
+
+c = cores.querySelectorAll("button")
+
+c.forEach(function(e){
+	e.onclick=function(g){
+		copiacola.value = this.innerHTML;
+		copiacola.select();
+		document.execCommand("Copy");
+		alert("Copiado");
+	}	
+})
